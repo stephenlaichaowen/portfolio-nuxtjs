@@ -1,0 +1,63 @@
+{
+  "home": {
+    "hero": [
+      {
+        "engTitle": "i'm stephen lai",
+        "engSubtitle": "fullstack vuejs/nuxtjs developer",
+        "engBtntext": "work with me !",
+        "chnTitle": "我是史蒂芬賴",
+        "chnSubtitle": "vuejs/nuxtjs 全端工程師",
+        "chnBtntext": "和我一起改變世界 !"
+      }
+    ],
+    "about": [
+      {
+        "engTitle": "about",
+        "engContent_1": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Vero quae, eum maiores est enim earum fugiat aspernatur. Fuga qui iste amet reiciendis possimus rerum omnis recusandae molestias error consequuntur, doloribus inventore reprehenderit officiis. Dolore aut, repellendus eius fugiat numquam cumque.",
+        "engContent_2": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Vero quae, eum maiores est enim earum fugiat aspernatur. Fuga qui iste amet reiciendis possimus rerum omnis recusandae molestias error consequuntur, doloribus inventore reprehenderit officiis. Dolore aut, repellendus eius fugiat numquam cumque.",
+        "engBtntext": "about me",
+        "chnTitle": "關於我",
+        "chnContent_1": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Vero quae, eum maiores est enim earum fugiat aspernatur. Fuga qui iste amet reiciendis possimus rerum omnis recusandae molestias error consequuntur, doloribus inventore reprehenderit officiis. Dolore aut, repellendus eius fugiat numquam cumque.",
+        "chnContent_2": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Vero quae, eum maiores est enim earum fugiat aspernatur. Fuga qui iste amet reiciendis possimus rerum omnis recusandae molestias error consequuntur, doloribus inventore reprehenderit officiis. Dolore aut, repellendus eius fugiat numquam cumque.",
+        "chnBtntext": "關於我"
+      }
+    ],
+    "services": {},
+    "projects": {},
+    "connect": {},
+    "skills": {},
+    "timeline": {},
+    "blog": {}
+  },
+  "about": {
+    "main": [
+      {
+        "id": 1,
+        "engTitle": "about me",
+        "chnTitle": "關於我",
+        "engContent": "Hello, I am John Doe and I am a web developer. I live and work in somewhere warm. I spend most of my day, experimenting with HTML, CSS and JavaScript (and its endless list of frameworks). I enjoy coding and the challenge of learning something new everyday. You can also find me at youtube channel",
+        "chnContent": "您好，我是John Doe，並且是一名Web開發人員。我在溫暖的地方生活和工作。我一整天都在嘗試HTML，CSS和JavaScript（以及無窮無盡的框架列表）。我喜歡編碼和每天學習新事物的挑戰。您也可以找到我在YouTube頻道"
+      }
+    ]
+  },
+  "projects": {
+    "main": [
+      {
+        "id": 2,
+        "engTitle": "my projects",
+        "chnTitle": "作品集"
+      }
+    ]
+  },
+  "contact": {
+    "main": [
+      {
+        "id": 3,
+        "engTitle": "contact",
+        "chnTitle": "聯繫我",
+        "engContent": "If you are looking to get ahold of me, you can send me an email at",
+        "chnContent": "如果您想了解我，可以通過以下方式給我發送電子郵件"
+      }
+    ]
+  }
+}
